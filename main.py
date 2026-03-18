@@ -1,0 +1,9 @@
+from menu import menu
+from validate_options import ask_number_positive
+from validate_options import validate_empty_strings
+from validate_options import validate_input_price
+from validate_options import validate_input_product_name
+from validate_options import validate_input_quantity
+from validate_options import record_sales2
+from validate_options import record_sales_print
+menu()
