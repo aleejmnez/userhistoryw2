@@ -6,4 +6,5 @@ from validate_options import validate_input_product_name
 from validate_options import validate_input_quantity
 from validate_options import record_sales2
 from validate_options import record_sales_print
+
 menu()
