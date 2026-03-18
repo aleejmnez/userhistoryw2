@@ -5,6 +5,7 @@ quantity = int #variable product quantity
 validate = True #variable to control the while loop for input validation
 Total_cost = float # variable of the total purchase amount 
 
+
 validate = True  # Variable used to control the loop
 
 print("Welcome to the Inventory System")
